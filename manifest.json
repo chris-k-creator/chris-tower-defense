@@ -1,6 +1,6 @@
 {
-  "name": "Hello Game",
-  "short_name": "HelloGame",
+  "name": "Chris Tower Defense",
+  "short_name": "ChrisTD",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",

@@ -1,4 +1,4 @@
-# Hello Game
+# Chris Tower Defense
 
 Minimal web scaffold for a browser-playable game. Contains a page that shows "Hello World!" and empty CSS/JS files for you to start developing.
 
