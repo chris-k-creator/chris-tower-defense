@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Simple post-commit hook to regenerate CHANGELOG.md after each commit
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+"$REPO_ROOT/scripts/generate_changelog.sh" >/dev/null 2>&1 || true
